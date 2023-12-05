@@ -1,3 +1,7 @@
+![Discord](https://img.shields.io/discord/907742604953804811?style=for-the-badge&label=Discord&labelColor=%236bb03d%20&color=%23e27014)
+
+
+
   <p align="left">
       <a href="https://www.youtube.com/channel/UCt00SFqoLi7BjmejezmCZ6g?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCt00SFqoLi7BjmejezmCZ6g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
