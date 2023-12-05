@@ -1,4 +1,7 @@
-![Discord](https://img.shields.io/discord/907742604953804811?style=for-the-badge&label=Discord&labelColor=%236bb03d%20&color=%23e27014&link=https%3A%2F%2Fdiscord.gg%2FSV4Kk88wKc)
+<p align="left">
+  <a href="https://discord.gg/SV4Kk88wKc">
+         <img alt="discord" title="Discord" src="https://img.shields.io/discord/907742604953804811?style=for-the-badge&label=Discord&labelColor=%236bb03d%20&color=%23e27014"/></a> 
+</p>
 
 
 
