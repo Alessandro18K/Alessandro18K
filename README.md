@@ -1,5 +1,5 @@
 # Александар
-[![Discord](https://img.shields.io/discord/?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%23e27014&color=darkgreen)](https://discord.gg/yC5sj9CWxj)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/discord/1303335171289907241?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%23e27014&color=darkgreen)](https://discord.gg/yC5sj9CWxj)&nbsp;&nbsp;
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt00SFqoLi7BjmejezmCZ6g?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23e27014&color=darkgreen)](https://www.youtube.com/channel/UCt00SFqoLi7BjmejezmCZ6g)&nbsp;&nbsp;
 ![YouTube Video Views](https://img.shields.io/youtube/views/DAouwaQc9Bs?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23e27014&color=darkgreen)
 <br /><br />
